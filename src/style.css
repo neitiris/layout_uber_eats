@@ -357,7 +357,7 @@ footer {
   }
   
   .product_cards .product_card {
-    margin: 0 6px;
+    margin: 0 6px 23px;
   }
   
   .product_cards .product_card-img {
@@ -381,6 +381,11 @@ footer {
   .footer_columns-container {
     display: grid;
     grid-template-columns: 30% 60%;
+  }
+  
+  .footer_bottom-links {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
   }
   
   .btn_app_container {
